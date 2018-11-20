@@ -1,1 +1,2 @@
 # LCsimulator
+add license
